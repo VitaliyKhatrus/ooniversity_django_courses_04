@@ -1,0 +1,63 @@
+/*
+need 10 classes
+*/
+h1.head, h2{
+	padding-left: 70px;
+}
+
+.text {	
+    text-align: center;    
+   }
+
+
+body {
+      padding-top: 70px;
+        padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+      position: static;
+        display: block;
+          margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+      margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+      width: auto;
+}
+
+.table {
+    display: table;
+}
+.table-row {
+    display: table-row;
+}
+.table-cell {
+    display: table-cell;
+}
+
+
+.messages li.error { 
+  list-style-type: none;
+  color red;
+}
+
+.messages li.success {
+  list-style-type: none;
+  color: green;
+}
+
+.red {
+    background-color: red;
+    border: none;
+}
+
+
+
+
+
+
+

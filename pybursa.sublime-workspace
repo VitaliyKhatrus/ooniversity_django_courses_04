@@ -1,0 +1,1225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"current",
+				"current_page"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"c",
+				"context	get_context_data"
+			],
+			[
+				"forma",
+				"formatter"
+			],
+			[
+				"pa",
+				"path	module"
+			],
+			[
+				"wa",
+				"warning	function"
+			],
+			[
+				"log",
+				"logger	statement"
+			],
+			[
+				"de",
+				"debug	function"
+			],
+			[
+				"get",
+				"getLogger	function"
+			],
+			[
+				"logg",
+				"logging	module"
+			],
+			[
+				"ext",
+				"ext	extends (ext)"
+			],
+			[
+				"var",
+				"var	context variable (var)"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"stu",
+				"students_list"
+			],
+			[
+				"students_",
+				"students_list"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"cour",
+				"course_id"
+			],
+			[
+				"stud",
+				"students"
+			],
+			[
+				"co",
+				"course_id"
+			],
+			[
+				"cou",
+				"course_id"
+			],
+			[
+				"fo",
+				"forms	module"
+			],
+			[
+				"C",
+				"Course	class"
+			],
+			[
+				"a",
+				"application	statement"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"St",
+				"StudentModelForm	class"
+			],
+			[
+				"for",
+				"forms	import"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Le",
+				"LessonInline"
+			],
+			[
+				"ad",
+				"admin	import"
+			],
+			[
+				"stude",
+				"students_list"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"ta",
+				"table	Tag"
+			],
+			[
+				"detai",
+				"detail"
+			],
+			[
+				"u",
+				"unique"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"M",
+				"Model	Model"
+			],
+			[
+				"war",
+				"war_c	statement"
+			],
+			[
+				"war_",
+				"war_b	statement"
+			],
+			[
+				"x",
+				"x2	statement"
+			],
+			[
+				"des",
+				"des_warn	statement"
+			],
+			[
+				"warning_",
+				"warning_a"
+			],
+			[
+				"st",
+				"student_detail"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"STA",
+				"STATICFILES_DIRS"
+			],
+			[
+				"p",
+				"pybursa"
+			],
+			[
+				"lo",
+				"loader"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"Q",
+				"QuestionAdmin	class"
+			],
+			[
+				"ch",
+				"choice_text	statement"
+			],
+			[
+				"q",
+				"question_text"
+			],
+			[
+				"styl",
+				"styles"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"w",
+				"warning	 foundation.css"
+			],
+			[
+				"ca",
+				"caption	Tag"
+			],
+			[
+				"i",
+				"info	 foundation.css"
+			],
+			[
+				"he",
+				"head	 style.css"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"stat",
+				"static	static"
+			],
+			[
+				"l_",
+				"l_new	statement"
+			],
+			[
+				"l",
+				"l_new	statement"
+			],
+			[
+				"la",
+				"lab_max	statement"
+			],
+			[
+				"V",
+				"ValueError	class"
+			],
+			[
+				"n",
+				"number	statement"
+			],
+			[
+				"lab",
+				"lab_num	statement"
+			],
+			[
+				"date",
+				"datetime	module"
+			],
+			[
+				"no",
+				"now_day"
+			],
+			[
+				"birth",
+				"birth_date	statement"
+			],
+			[
+				"fi",
+				"first_name	statement"
+			],
+			[
+				"bit",
+				"birth_date	param"
+			],
+			[
+				"bi",
+				"birth_date	param"
+			],
+			[
+				"__",
+				"__init__	init"
+			],
+			[
+				"fin",
+				"find_most_frequent	function"
+			],
+			[
+				"value",
+				"value	statement"
+			],
+			[
+				"num",
+				"num_holes	statement"
+			],
+			[
+				"con",
+				"continue	keyword"
+			],
+			[
+				"text",
+				"text_new_l	statement"
+			],
+			[
+				"text_ne",
+				"text_new_l	statement"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"all",
+				"all_articles	statement"
+			],
+			[
+				"WORD",
+				"WORDS	statement"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"b",
+				"button	 foundation.css"
+			],
+			[
+				"r",
+				"right	 foundation.css"
+			],
+			[
+				"to",
+				"top-bar-section	 foundation.css"
+			],
+			[
+				"ar",
+				"article_text"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"articl",
+				"articles"
+			],
+			[
+				"Comm",
+				"CommentForm	class"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"comment",
+				"comment_form	statement"
+			],
+			[
+				"article",
+				"article_id	param"
+			],
+			[
+				"Mo",
+				"ModelForm	ModelForm"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"arti",
+				"article_id"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"m",
+				"models	module"
+			],
+			[
+				"ren",
+				"render_to_response	import"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"border-to",
+				"border-bottom-right-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bo",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 2168,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Document</title>\n</head>\n<body>\n	\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pybursa/settings.py",
+			"settings":
+			{
+				"buffer_size": 3626,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"last_filter": "Package Control: I",
+		"selected_items":
+		[
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: R",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Remove Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: comment"
+			],
+			[
+				" lo",
+				"Git: Log All"
+			],
+			[
+				"git",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gi",
+				"GitX: Open GitX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"print 'Hello world!';",
+			"print 'Hello world!'",
+			"print \"Hello world!\"",
+			"/home/solid/Documents/Book/Python/M.Dawson - Python for beginners/py3e_source/chapter04/loopy_string.py",
+			"loop_string.py",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())﻿;",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())﻿"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/solid/PyBursa/ooniversity_django_courses_04",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses"
+	],
+	"file_history":
+	[
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/index.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa.sublime-project",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/.gitignore",
+		"/home/solid/Documents/Book/Python/M.Dawson - Python for beginners/py3e_source/chapter06/tic-tac-toe.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa/settings.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses/detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/tests.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/student_list.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/tests.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/models.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/include/coaches_include.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/student_detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses_logger",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students_logger",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/feedbacks/forms.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/forms.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/forms.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/feedbacks/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/feedbacks/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/feedbacks/templates/feedback.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/base.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/feedbacks/models.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/models.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses/remove.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses/edit.html",
+		"/home/solid/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/solid/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/solid/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/solid/.config/sublime-text-3/Packages/User/LiveStyle.sublime-settings",
+		"/home/solid/.config/sublime-text-3/Packages/User/HTML (Django).sublime-settings",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses/add.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/student_confirm_delete.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/student_form.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/courses/add_lesson.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/list.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/add.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/edit.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/remove.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/static/css/style.css",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/quadratic/forms.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/quadratic/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/quadratic/templates/quadratic/results.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/quadratic/views.py.old",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/detail.html.old",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/list.html.old",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/contact.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/students/base.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/student_list.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/coaches/detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/include/ooun_include.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/coaches/models.py",
+		"/home/solid/Desktop/test.css",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/coaches/admin.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/coaches/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/coaches/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/admin.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/students/admin.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/admin.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/templates/student_detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/urls.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/courses/admin.pyc",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/models.py",
+		"/home/solid/Scripts/Python/TMP/dic.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/quadratic/urls.py",
+		"/home/solid/Scripts/Python/dict.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/pybursa/settings.pyc",
+		"/home/solid/djangoenv/bin/firstapp/article/views.py",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/templates/polls/index.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/templates/polls/detail.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/templates/polls/results.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/views.py",
+		"/home/solid/djangoenv/bin/firstapp/results.html",
+		"/home/solid/PyBursa/ooniversity_django_courses_04/polls/admin.pyc",
+		"/home/solid/PyBursa/virtualenv/hello/hello/urls.py",
+		"/home/solid/Scripts/Python/TMP/hangman.py",
+		"/home/solid/PyBursa/scripts/2_week/func_8.py",
+		"/home/solid/PyBursa/scripts/2_week/func_7.py",
+		"/home/solid/PyBursa/scripts/3_week/tmp_3.py",
+		"/home/solid/PyBursa/scripts/3_week/tmp_1.py",
+		"/home/solid/PyBursa/scripts/3_week/tmp.py",
+		"/home/solid/PyBursa/scripts/2_week/func_6.py",
+		"/home/solid/PyBursa/scripts/2_week/func_5.py",
+		"/home/solid/PyBursa/scripts/2_week/func_4.py",
+		"/home/solid/PyBursa/scripts/2_week/func_3.py",
+		"/home/solid/PyBursa/scripts/2_week/func2.py",
+		"/home/solid/PyBursa/scripts/2_week/func1.py",
+		"/home/solid/PyBursa/scripts/3_week/people.csv",
+		"/home/solid/PyBursa/scripts/3_week/oldest.py",
+		"/home/solid/PyBursa/scripts/3_week/Person.py",
+		"/home/solid/PyBursa/scripts/3_week/find_best_st.py",
+		"/home/solid/PyBursa/scripts/3_week/Student.py",
+		"/home/solid/PyBursa/scripts/2_week/function.py",
+		"/home/solid/PyBursa/scripts/4_week/main.css",
+		"/home/solid/PyBursa/scripts/4_week/test.html",
+		"/home/solid/PyBursa/scripts/test.html",
+		"/home/solid/PyBursa/scripts/2_week/tmp.py",
+		"/home/solid/djangoenv/bin/firstapp/article/forms.py",
+		"/home/solid/PyBursa/scripts/vowels.py",
+		"/home/solid/PyBursa/scripts/count_in_string.py",
+		"/home/solid/PyBursa/scripts/string_max.py",
+		"/home/solid/PyBursa/scripts/palindromes.py",
+		"/home/solid/PyBursa/scripts/numero.py",
+		"/home/solid/PyBursa/scripts/alphabee.py",
+		"/home/solid/PyBursa/scripts/vowels.pl",
+		"/home/solid/djangoenv/bin/firstapp/article/urls.py",
+		"/home/solid/djangoenv/bin/firstapp/article/templates/articles.html",
+		"/home/solid/Desktop/Django/static_Paboda/css/main.css",
+		"/home/solid/Documents/Book/Python/M.Dawson - Python for beginners/py3e_source/chapter05/hangman.py",
+		"/home/solid/.config/sublime-text-3/Packages/User/chtml_comments.sublime-snippet",
+		"/home/solid/Desktop/Other/html5.html",
+		"/home/solid/Desktop/Django/static_Paboda/index.html",
+		"/home/solid/.config/sublime-text-3/Packages/User/html-dicomment.sublime-snippet",
+		"/home/solid/djangoenv/bin/firstapp/article/models.py",
+		"/home/solid/Documents/TEACH/Python/Django_vitaliy paboda /New-2015-11-08/Django_Recommended/Code/chapter5_html/static/index.html",
+		"/home/solid/Documents/Book/Python/M.Dawson - Python for beginners/py3e_source/chapter04/loopy_string.py",
+		"/home/solid/Desktop/Django/static/index.html",
+		"/home/solid/.config/sublime-text-3/Packages/User/Python27.sublime-build",
+		"/home/solid/.config/sublime-text-3/Packages/User/Django-test.sublime-build",
+		"/home/solid/.config/sublime-text-3/Packages/User/Django-test",
+		"/home/solid/Desktop/Django/index.html",
+		"/home/solid/djangoenv/bin/firstapp/templates/myview.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"')",
+			"page",
+			" %}",
+			"students",
+			"print",
+			"var",
+			"()",
+			"        \n",
+			"    ",
+			"d",
+			"c",
+			"site_header",
+			"middle",
+			"ячейки9",
+			"ячейки8",
+			"Description",
+			"fr",
+			"')",
+			"((",
+			"))\n",
+			"'])",
+			"]\n",
+			")",
+			"output",
+			"cur",
+			"s",
+			"final_out",
+			"count",
+			"palindromes",
+			"Jemi",
+			"\\n",
+			"nYou",
+			"(\"\\",
+			"\n\"\"\"",
+			"\"\"\"\n",
+			"Name",
+			"						\n",
+			"table",
+			"<li>",
+			"ordering",
+			"meta",
+			"button",
+			"http://placehold.it/400x240&text=[img]",
+			"Lory",
+			"2015",
+			"Mike",
+			"Jeremi",
+			"August",
+			"2012",
+			"Vitaly",
+			"John Smith"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Vitaly"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"default_dir": "/home/solid/PyBursa/ooniversity_django_courses_04",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pybursa/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2157,
+								2157
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 264.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "pybursa.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"pybursa.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

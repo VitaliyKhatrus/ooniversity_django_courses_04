@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load bootstrap %}
+{% block title %}{{ title }}{% endblock title %}
+
+
+{% block nav_class_student %}active{% endblock %}
+
+
+{% block content %}
+  <div class="page-header">
+    <h2>{{ title }}</h2>
+
+    <!--h4>Ниже предоставлен список студентов курса</h4-->
+   </div>
+<div class="col-md-6">
+<form class="form-horizontal" method="post">
+    {% csrf_token %}
+    {{ form|bootstrap_horizontal }}
+    <input type="submit" value="Создать"/>
+</form>
+	</div>
+{% endblock content %}

@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+{% block title %}Студенты курса PyBursa{% endblock title %}
+
+
+{% block nav_class_student %}active{% endblock %}
+
+
+{% block content %}
+
+<br>
+{% if messages %}
+<div class="well well-sm">
+    <ul class="messages">
+      {% for message in messages %}
+        <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+      {% endfor %}
+    </ul>
+    </div>
+{% endif %}
+<br>
+<a href="{% url 'students:add' %}" class="btn btn-primary btn-xs" role="button"><span class="glyphicon glyphicon-plus-sign"></span> Добавить нового студента</a>
+<br>
+
+<div class="page-header">
+        <h2>Студенты курса PyBursa</h2>
+        <!--h4>Ниже предоставлен список студентов курса</h4-->
+      </div>
+ <!--div class="container"-->
+ <div class="row">
+  <table class="table">
+    <thead>
+      <tr>
+            <th>#</th>
+            <th>фамилия имя</th>
+            <th>адрес</th>
+            <th>skype</th>
+            <th>курсы</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for classman in object_list %}
+        <tr class="info">
+            <td>{{ classman.id }}</td>
+            <td><a href="{% url 'students:detail' classman.id %}">{{ classman.surname }} {{ classman.name }}</a></td>
+            <td>{{ classman.address }}</td>
+            <td>{{ classman.skype }}</td>
+            <td>
+            {% for course in classman.courses.all %}
+            <p><a href="{% url 'courses:detail' course.id %}">{{ course.name }}</a></p>
+            {% endfor %}            
+            </td>
+            <td>
+               <a href="{% url 'students:edit' classman.id %}" class="btn btn-primary btn-xs" role="button"><span class="glyphicon glyphicon-pencil"></span>Изменить</a>
+            </td>
+            <td>
+               <a href="{% url 'students:remove' classman.id %}" class="btn btn-primary btn-xs" role="button"><span class="glyphicon glyphicon-remove"></span>Удалить</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% comment %}
+    Paginator_Begin
+{% endcomment %}
+
+<div class="text-center">
+<ul class="pagination pagination-lg">
+   <li>
+{% if page_obj.has_previous %}
+<li><a href="?page={{ page_obj.previous_page_number }}" aria-label="Previous"><span aria-hidden="true">&laquo; previous</span></a></li>
+{% endif %}
+{% for sht in page_obj.paginator.page_range %}
+    {% if page_obj.number == sht %}
+        <li class="active"><a href="?page={{ sht }}">{{ sht }}<span class="sr-only">(current)</span></a></li>
+    {% else %}
+        <li><a href="?page={{ sht }}">{{ sht }}<span class="sr-only">(current)</span></a></li>
+    {% endif %}
+{% endfor %}
+{% if page_obj.has_next %}
+    <li><a href="?page={{ page_obj.next_page_number }}" aria-label="Next"><span aria-hidden="true">next &raquo;</span></a></li>
+{% endif %}
+
+  <!--a href="#" aria-label="Previous">
+    <span aria-hidden="true">&laquo;</span>
+  </a>
+</li>
+<li><a href="#">1</a></li>
+<li><a href="#">2</a></li>
+<li><a href="#">3</a></li>
+<li><a href="#">4</a></li>
+<li><a href="#">5</a></li>
+<li>
+  <a href="#" aria-label="Next">
+    <span aria-hidden="true">&raquo;</span>
+  </a-->
+</li>
+</ul>
+    </div>
+{% comment %}
+    Paginator_End
+{% endcomment %}
+
+
+{% endblock content %}

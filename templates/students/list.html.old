@@ -1,0 +1,38 @@
+{% extends "students/base.html" %}
+{% block page_header %}Студенты курса PyBursa{% endblock page_header %}
+        
+
+{% block page_content %}
+ <!--div class="container"-->
+  <table class="table">
+    <thead>
+      <tr>
+            <th>#</th>
+            <th>фамилия имя</th>
+            <th>адрес</th>
+            <th>skype</th>
+            <th>курсы</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for classman in students_list %}
+        <tr class="info">
+            <td>{{classman.id}}</td>
+            <td><a href="{% url 'students:detail' classman.id %}">{{classman.surname}} {{classman.name}}</a></td>
+            <td>{{classman.address}}</td>
+            <td>{{classman.skype}}</td>
+            <td>
+            {% for id_in_course,value in course_list.items %}
+            {% if classman.id == id_in_course %}
+            {% for course in value %}
+            <p><a href="{% url 'courses:detail' course.id %}">{{course.name}}</a></p>
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+  </table>
+<!--/div-->
+{% endblock page_content %}

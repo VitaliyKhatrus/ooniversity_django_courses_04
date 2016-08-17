@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Students{% endblock title %}
+
+
+{% block nav_class_student %}active{% endblock %}
+
+
+{% block content %}
+      <div class="page-header">
+        <h1>Студенты курса PyBursa</h1>
+        <h4>Ниже предоставлен список студентов курса</h4>
+      </div>
+
+<div class="container">
+  <table class="table">
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Surname</th>
+        <th>Name</th>
+        <th>Address</th>
+        <th>Skype</th>
+      </tr>
+    </thead>
+    <tbody>
+              
+      <tr class="success">
+      <td><a href="{% url 'pybursa.views.student_detail' %}">1</a></td>
+        <td>Ivanov</td>
+        <td>Ivan</td>
+        <td>Украина, г.Харьков</td>
+        <td>iivan</td>
+      </tr>
+      <tr class="info">
+        <td>2</td>
+        <td>Petrov</td>
+        <td>Petr</td>
+        <td>Украина, г.Харьков</td>
+        <td>ppsk</td>
+      </tr>
+      <tr class="success">
+        <td>3</td>
+        <td>Sidoroff</td>
+        <td>Serg</td>
+        <td>Украина, г.Харьков</td>
+        <td>skp</td>
+      </tr>
+      <tr class="info">
+        <td>4</td>
+        <td>Gladishev</td>
+        <td>Alexsander</td>
+        <td>Украина, г.Харьков</td>
+        <td>aglad</td>
+      </tr>
+      <tr class="success">
+        <td>5</td>
+        <td>Golovko</td>
+        <td>Maxim</td>
+        <td>Украина, г.Харьков</td>
+        <td>gmax</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+{% endblock content %}

@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}Contacts{% endblock title %}
+
+
+{% block nav_class_contact %}active{% endblock %}
+
+
+{% block content %}
+
+{% include "include/ooun_include.html" %}      
+      <div class="page-header">
+        <h1>Contacts</h1>
+      </div>
+      <div class="well">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+      </div>
+
+  <!--address>
+      <strong>Twitter, Inc.</strong><br>
+      795 Folsom Ave, Suite 600<br>
+      San Francisco, CA 94107<br>
+      <abbr title="Phone">P:</abbr> (123) 456-7890
+  </address-->
+     <!-- Director, Manager, Founder -->
+    
+    <div class="table">
+    <ul class="table-row">
+        <li class="table-cell">
+          <h5><strong>Director</strong></h5>
+          <address>    
+              <strong>Name: Павел Обод</strong><br />
+              <abbr title="Phone">P: </abbr> (123) 456-7890 <br />
+              <abbr title="skype">S: </abbr> azaless <br />
+              <abbr title="email">E: </abbr><a href="mailto: itbursa100@gmail.com">itbursa100@gmail.com</a>
+          </address>
+
+        </li>
+        <li class="table-cell">
+          <h5><strong>Manager</strong></h5>
+          <address>
+              <strong>Name: Дария Михалевич</strong><br />
+              <abbr title="Phone">P: </abbr> (123) 456-7890 <br />
+              <abbr title="skype">S: </abbr> darka.darka.darka.darka. <br />
+              <abbr title="email">E: </abbr><a href="mailto: daria.mykhalevych@gmail.com">daria.mykhalevych@gmail.com</a>
+          </address>    
+        </li>
+        <li class="table-cell">
+            <h5><strong>Founder</strong></h5>
+            <address>
+                <strong>Name: Алексей Радченко</strong><br />
+                <abbr title="Phone">P: </abbr> (123) 456-7890 <br />
+                <abbr title="skype">S: </abbr> dixon.che <br />
+                <abbr title="email">E: </abbr><a href="mailto: lenlagun@gmail.com">lenlagun@gmail.com</a>
+            </address>
+        </li>
+    </ul>
+  </div>
+{% endblock content%}
